@@ -1,0 +1,4 @@
+/target
+cookies.txt
+*.txt
+!README.md
